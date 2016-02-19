@@ -1,0 +1,72 @@
+body{
+    background-color:lightblue;
+}
+
+#favouriteButton {
+cursor: pointer;
+}
+
+h1 {
+    font-family: arial;
+    text-align: center;
+    text-decoration: underline;
+    color: black;
+}
+
+h5 {
+    font-family: arial;
+    text-align:center;
+    text-decoration: underline;
+    color: black;
+
+}
+
+
+#students {
+
+    width: 30%;
+
+    margin: 3%;
+    border: 1px solid black;
+    float: left;
+
+}
+
+#students2 {
+
+    width: 30%;
+
+    margin: 3%;
+    border: 1px solid black;
+    float: left;
+
+}
+
+
+#favourites {
+    width: 30%;
+    padding: 5%;
+
+    margin: 3%;
+    border: 1px solid black;
+    float: right;
+
+}
+
+button#add{
+    width:30%;
+
+
+}
+
+button#clear{
+    width:30%;
+
+}
+.output{
+    align-content: center;
+}
+
+#output, #noFav{
+    background-color: #ffffff;
+}
