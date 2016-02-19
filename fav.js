@@ -11,11 +11,6 @@ $().ready(function () {
 
 });
 
-/*var clearOutput = function(){
-    $("#output").empty();
-}
-*/
-
 
 function getFavourite(){
 empty = $("#noFav").html("");
